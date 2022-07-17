@@ -18,18 +18,18 @@ This script provides the ability to upgrade multiple DPs at once.
 
 ## Usage:
 1.	python3 dp_mass_upgrader.py <Vision-IP> <Vision-user> <Vision-pass> <Excel-filename> <1-5>
-  -	Vision-IP: IP of the Vision that manages the DPs
-  -	Vision-user: Vision login username
-  -	Vision-pass: Vision login password
-  -	Excel-filename: Name of the excel file with the information
-  -	<1-5>: Number of simultaneous upgrades
+    -	Vision-IP: IP of the Vision that manages the DPs
+    -	Vision-user: Vision login username
+    -	Vision-pass: Vision login password
+    -	Excel-filename: Name of the excel file with the information
+    -	<1-5>: Number of simultaneous upgrades
 2. The folder containing the script should also contain the following:
-  -	Excel file with all the relevant information: IP, platform, version, image filename
-  -	The image file used for the upgrade
+    -	Excel file with all the relevant information: IP, platform, version, image filename
+    -	The image file used for the upgrade
 3.  Excel formatting notes: 
-  -	The platform name in the Excel file must be exactly as it appears in the ‘Supported Platform’ column of the Excel file
-  -	The version number in the Excel file must be in the format of x.x.x.x for example: 8.30.0.0, 8.26.2.0 etc.
-  -	A template Excel file can be found in the repository
+    -	The platform name in the Excel file must be exactly as it appears in the ‘Supported Platform’ column of the Excel file
+    -	The version number in the Excel file must be in the format of x.x.x.x for example: 8.30.0.0, 8.26.2.0 etc.
+    -	A template Excel file can be found in the repository
 
 
 ## Example of running the script from a Linux server:
