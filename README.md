@@ -27,7 +27,7 @@ This script provides the ability to upgrade multiple DPs at once.
 
 ## Example of running the script from a Linux server:
 
-python3 dp_bulk_upgrader.py 10.213.51.210 radware radware example.xlsx 3  
+python3 dp_mass_upgrader.py 10.213.51.210 radware radware example.xlsx 3  
 Fetching all upgrade data...  
 Starting bulk upgrade with 3 workers  
 DP 10.213.51.213: locked successfully  
