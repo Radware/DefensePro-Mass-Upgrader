@@ -26,7 +26,7 @@ This script provides the ability to upgrade multiple DPs at once.
 2.  The folder containing the script should also contain the following:
     - Excel file with all the relevant information: IP, platform, version, image filename
     - The image file used for the upgrade  
-Excel formatting notes: 
+3. Excel formatting notes: 
     - The platform name in the Excel file must be exactly as it appears in the ‘Supported Platform’ column of the Excel file
     - The version number in the Excel file must be in the format of x.x.x.x for example: 8.30.0.0, 8.26.2.0 etc.
     - A template Excel file can be found in the repository
