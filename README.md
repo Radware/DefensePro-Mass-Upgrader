@@ -17,7 +17,7 @@ This script provides the ability to upgrade multiple DPs at once.
 
 
 ## Usage:
-1.	python3 dp_mass_upgrader.py [Vision-IP]
+1.	python3 dp_mass_upgrader.py [Vision-IP] [Vision-user] [Vision-pass] [Excel-filename] [1-5]
     - Vision-IP: IP of the Vision that manages the DPs
     - Vision-user: Vision login username
     - Vision-pass: Vision login password
