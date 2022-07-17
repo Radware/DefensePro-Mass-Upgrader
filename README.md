@@ -10,9 +10,9 @@ This script provides the ability to upgrade multiple DPs at once.
 
 ## Prerequisites:
 1.	Python3 installed on the client with the following modules:  
-  -	Pandas  
-  -	requests  
-  -	urllib3  
+    -	Pandas  
+    -	requests  
+    -	urllib3  
 2.	The client running the script must be connected to the internet.
 
 
