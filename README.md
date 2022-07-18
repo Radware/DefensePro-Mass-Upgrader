@@ -1,4 +1,4 @@
-# DP-Mass-Upgreader
+# DP-Mass-Upgrader
 This script provides the ability to upgrade multiple DPs at once.
 
 ## How the script works:
