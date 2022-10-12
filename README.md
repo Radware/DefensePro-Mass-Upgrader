@@ -13,6 +13,7 @@ This script provides the ability to upgrade multiple DPs at once.
     -	Pandas  
     -	requests  
     -	urllib3  
+    -	openpyxl
 2.	The client running the script must be connected to the internet.
 
 
